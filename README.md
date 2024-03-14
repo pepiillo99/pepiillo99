@@ -44,6 +44,7 @@
 <h4 align="left">IDE</h4>
 <p align="left"> 
   <a href="https://www.eclipse.org" target="_blank" rel="noreferrer"> <img src="https://ahorasomos.izertis.com/globetesting/wp-content/uploads/2019/01/logoeclipse2.png" alt="eclipse" width="40" height="40"/> </a> 
+  <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" alt="eclipse" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="vs" width="40" height="40"/> </a> 
