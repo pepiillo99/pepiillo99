@@ -44,7 +44,7 @@
 <h4 align="left">Frameworks</h4>
 <p align="left"> 
   <a href="https://www.eclipse.org" target="_blank" rel="noreferrer"> <img src="https://ahorasomos.izertis.com/globetesting/wp-content/uploads/2019/01/logoeclipse2.png" alt="eclipse" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="vscode" width="40" height="40"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="vs" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> 
   </p>
