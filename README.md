@@ -1,13 +1,7 @@
 <h1 align="center">Hello 👋, i'm pepiillo99</h1>
 <h3 align="center">I am a programmer specialized in the backend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pepiillo99&label=Profile%20views&color=0e75b6&style=flat" alt="pepiillo99" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pepiillo99" alt="pepiillo99" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages</h4>
